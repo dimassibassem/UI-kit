@@ -1,0 +1,5 @@
+@theme {
+    /* overrides */
+    --color-brand-500: #9ae10c;
+    --radius-md: 0.25rem;
+}

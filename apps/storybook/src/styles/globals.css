@@ -1,5 +1,4 @@
 @import "tailwindcss";
 @import "@repo/ui/default-theme.css";
 @import "./overrided-theme.css";
-@source "../node_modules/@repo/ui";
-
+@source "../../node_modules/@repo/ui";
